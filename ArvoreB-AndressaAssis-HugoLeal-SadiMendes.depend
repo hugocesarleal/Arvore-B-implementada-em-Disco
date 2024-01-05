@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1702323711 source:c:\users\hugo\desktop\arvoreb-andressaassis-hugoleal-sadimendes\src\cabecalho.cpp
+	"cabecalho.h"
+
+1702322908 c:\users\hugo\desktop\arvoreb-andressaassis-hugoleal-sadimendes\include\cabecalho.h
+	"serializable.h"
+
+1702323273 c:\users\hugo\desktop\arvoreb-andressaassis-hugoleal-sadimendes\include\serializable.h
+	<iostream>
+
+1702412219 source:c:\users\hugo\desktop\arvoreb-andressaassis-hugoleal-sadimendes\src\serialchar.cpp
+	<iostream>
+	"serialChar.h"
+
+1702412648 c:\users\hugo\desktop\arvoreb-andressaassis-hugoleal-sadimendes\include\serialchar.h
+	"serializable.h"
+	<iostream>
+
+1702413145 source:c:\users\hugo\desktop\arvoreb-andressaassis-hugoleal-sadimendes\main.cpp
+	<iostream>
+	<clocale>
+	"bTree.h"
+	"serialChar.h"
+
+1702412648 c:\users\hugo\desktop\arvoreb-andressaassis-hugoleal-sadimendes\include\btree.h
+	"no.h"
+	"typedFile.h"
+	"serialChar.h"
+	"registro.h"
+	<iostream>
+
+1702412904 c:\users\hugo\desktop\arvoreb-andressaassis-hugoleal-sadimendes\include\no.h
+	<iostream>
+	<vector>
+	"serializable.h"
+
+1702412703 c:\users\hugo\desktop\arvoreb-andressaassis-hugoleal-sadimendes\include\typedfile.h
+	<fstream>
+	"registro.h"
+	"cabecalho.h"
+
+1702412715 c:\users\hugo\desktop\arvoreb-andressaassis-hugoleal-sadimendes\include\registro.h
+	"serializable.h"
+
